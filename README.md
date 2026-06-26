@@ -23,9 +23,9 @@ Berikut adalah beberapa tampilan halaman dari aplikasi BrainPace:
 | :---: | :---: | :---: |
 | <img src="assets/images/home-page.jpg" width="240" alt="Home Screen"/> | <img src="assets/images/instruction-page.jpg" width="240" alt="Instruction Screen"/> | <img src="assets/images/panel.jpg" width="240" alt="Panel Setup"/> |
 
-| Halaman Tes (Gameplay) | Pengaturan Aplikasi |
-| :---: | :---: |
-| <img src="assets/images/test-page.jpg" width="240" alt="Test Screen"/> | <img src="assets/images/settings-page.jpg" width="240" alt="Settings Screen"/> |
+| Halaman Tes (Gameplay) | Detail Hasil Tes | Pengaturan Aplikasi |
+| :---: | :---: | :---: |
+| <img src="assets/images/test-page.jpg" width="240" alt="Test Screen"/> | <img src="assets/images/detail-page.jpg" width="240" alt="Detail Screen"/> | <img src="assets/images/settings-page.jpg" width="240" alt="Settings Screen"/> |
 
 ---
 
